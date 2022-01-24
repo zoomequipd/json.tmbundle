@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>James Edward Gray II</string>
 	<key>description</key>
-	<string>Syntax highlight for &lt;a href="http://json.org/"&gt;JavaScript Object Notation&lt;/a&gt; files, often used as a lightweight serialization format.</string>
+	<string>Syntax highlight for Suricata rules</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
@@ -19,8 +19,8 @@
 		</array>
 	</dict>
 	<key>name</key>
-	<string>JSON</string>
+	<string>Suricata</string>
 	<key>uuid</key>
-	<string>8BB0DBAF-E65C-4E14-A6A7-467D4AA535E0</string>
+	<string>4437627b-2a2e-46d3-b726-adebf1cb471a</string>
 </dict>
 </plist>
